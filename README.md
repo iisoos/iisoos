@@ -13,7 +13,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
-[![Python](https://www.google.com/search?q=python&client=opera&hs=Z2H&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGsZTkgMX4AhVClIQIHWyIBCkQ_AUoAXoECAIQAw&biw=1879&bih=900&dpr=1#imgrc=XmmuGvoln--UuM)]()
+[![Python](https://img.shields.io/badge/python-999999?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 </br>
 And more...

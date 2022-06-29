@@ -1,5 +1,5 @@
 ### My Public Profile 😄👋
-🌱🔭👯🤔💬📫⚡ 
+🔭⚡😆😅😇😉😊🙂🙃😋😌😍🥰😘😗😙😚😜😝😛🤑😎🤓🧐🤠🥳🤡😏😒🙄🤨🤔🤫🤗💤😈👿👹👻💀☠👽🤖😺😻😿
 # ![https://IISOOS.com](https://i.ibb.co/8cWbwvd/sssssss.png) Hello, my name is Ismael Rodriguez
 ### Future telecommunications engineer, now I am studying the same career
 ### In this space I am putting my practices and my experience little by little, such as handling Linux, Python (Spyder and Jupyter Notebook)

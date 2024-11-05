@@ -5,7 +5,7 @@
 ### In this space I am putting my practices and my experience little by little, such as handling Linux, Python (Spyder and Jupyter Notebook)
 ## A little bit about me:
 
-## I am studying at the National University of San Agustín de Arequipa, I am in the 4th year, third semester.
+## I am studying at the National University of San Agustín de Arequipa, I am in the 4th year, eighth semester.
 ![https://github.com/iisoos](https://i.ibb.co/0hX9H2D/bannerr.png)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/channel/UC9LZX_o0jwcUkDBq10KvMOw)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/gpMC8Wej)

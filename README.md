@@ -1,18 +1,12 @@
 ### My Public Profile 😄👋
 🔭⚡😅😇😉😊🙂🙃😋😍🥰😘😗😙😚😜😝😛🤑😎🤓🧐🤠🥳🤡😏😒🙄🤨🤔🤫🤗💤😈👿👹👻💀☠👽🤖😺😻😿
 # ![https://IISOOS.com](https://i.ibb.co/8cWbwvd/sssssss.png) Hello, my name is Ismael Rodriguez
-# ![Banner](https://i.ibb.co/8cWbwvd/sssssss.png) Hello, I'm Ismael Rodríguez 👋
 
 ### 🎓 Bachelor's Degree in Telecommunications Engineering
-
 **National University of San Agustín of Arequipa (UNSA)**
-
 I am passionate about telecommunications, networking, data analysis, and technology. Throughout my academic background and professional experience, I have developed skills in Linux, Python (Jupyter Notebook and Spyder), Power BI, Microsoft Office, and networking technologies.
-
 This GitHub is where I share my projects, certifications, and continuous learning while expanding my knowledge in Telecommunications and Information Technology.
-
 ## 🚀 About Me
-
 * 🎓 Bachelor's Degree in Telecommunications Engineering.
 * 🌐 Interested in Telecommunications, Networking, IT, and Data Analysis.
 * 🐧 Experience with Linux and Python.
@@ -21,7 +15,6 @@ This GitHub is where I share my projects, certifications, and continuous learnin
 * 💼 Open to opportunities in Telecommunications, Networking, Technical Support, and Data Analysis.
 
 ## 📌 Currently
-
 * 🌱 Continuously learning and developing new technical skills.
 * 💻 Building projects and sharing them on GitHub.
 * 🤝 Looking to contribute to open-source and collaborative projects.

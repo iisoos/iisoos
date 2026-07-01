@@ -1,8 +1,8 @@
 ### My Public Profile 😄👋
 🔭⚡😅😇😉😊🙂🙃😋😍🥰😘😗😙😚😜😝😛🤑😎🤓🧐🤠🥳🤡😏😒🙄🤨🤔🤫🤗💤😈👿👹👻💀☠👽🤖😺😻😿
 # ![https://IISOOS.com](https://i.ibb.co/8cWbwvd/sssssss.png) Hello, my name is Ismael Rodriguez
-### Future telecommunications engineer, now I am studying the same career
-### In this space I am putting my practices and my experience little by little, such as handling Linux, Python (Spyder and Jupyter Notebook)
+### I hold a Bachelor's degree in Telecommunications Engineering from the National University of San Agustín of Arequipa.
+### I am passionate about telecommunications, networking, data analysis, and technology. Throughout my academic background and professional experience, I have developed skills in Linux, Python (Jupyter Notebook and Spyder), Power BI, Microsoft Office, and networking technologies. This is where I share my projects, professional experience, certifications, and continuous learning as I continue to grow in the fields of telecommunications and information technology.
 ## A little bit about me:
 
 ## I am studying at the National University of San Agustín de Arequipa, I am in the 4th year, eighth semester.

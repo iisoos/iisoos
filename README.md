@@ -1,11 +1,31 @@
 ### My Public Profile 😄👋
 🔭⚡😅😇😉😊🙂🙃😋😍🥰😘😗😙😚😜😝😛🤑😎🤓🧐🤠🥳🤡😏😒🙄🤨🤔🤫🤗💤😈👿👹👻💀☠👽🤖😺😻😿
 # ![https://IISOOS.com](https://i.ibb.co/8cWbwvd/sssssss.png) Hello, my name is Ismael Rodriguez
-### I hold a Bachelor's degree in Telecommunications Engineering from the National University of San Agustín of Arequipa.
-### I am passionate about telecommunications, networking, data analysis, and technology. Throughout my academic background and professional experience, I have developed skills in Linux, Python (Jupyter Notebook and Spyder), Power BI, Microsoft Office, and networking technologies. This is where I share my projects, professional experience, certifications, and continuous learning as I continue to grow in the fields of telecommunications and information technology.
-## A little bit about me:
+# ![Banner](https://i.ibb.co/8cWbwvd/sssssss.png) Hello, I'm Ismael Rodríguez 👋
 
-## I am studying at the National University of San Agustín de Arequipa, I am in the 4th year, eighth semester.
+### 🎓 Bachelor's Degree in Telecommunications Engineering
+
+**National University of San Agustín of Arequipa (UNSA)**
+
+I am passionate about telecommunications, networking, data analysis, and technology. Throughout my academic background and professional experience, I have developed skills in Linux, Python (Jupyter Notebook and Spyder), Power BI, Microsoft Office, and networking technologies.
+
+This GitHub is where I share my projects, certifications, and continuous learning while expanding my knowledge in Telecommunications and Information Technology.
+
+## 🚀 About Me
+
+* 🎓 Bachelor's Degree in Telecommunications Engineering.
+* 🌐 Interested in Telecommunications, Networking, IT, and Data Analysis.
+* 🐧 Experience with Linux and Python.
+* 📊 Knowledge of Power BI and Microsoft Office.
+* 📚 Always learning new technologies and improving my technical skills.
+* 💼 Open to opportunities in Telecommunications, Networking, Technical Support, and Data Analysis.
+
+## 📌 Currently
+
+* 🌱 Continuously learning and developing new technical skills.
+* 💻 Building projects and sharing them on GitHub.
+* 🤝 Looking to contribute to open-source and collaborative projects.
+
 ![https://github.com/iisoos](https://i.ibb.co/0hX9H2D/bannerr.png)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/channel/UC9LZX_o0jwcUkDBq10KvMOw)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/gpMC8Wej)
